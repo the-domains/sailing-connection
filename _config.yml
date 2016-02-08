@@ -1,0 +1,28 @@
+name: Sailing Connection
+favicon: null
+layout_spectrum: 0.6522243965882808
+typography_spectrum: 0.250135330716148
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6624513471033424
+  lightness: 0.9284764635376632
+  saturation: 0.05848123366013169
+  rhythmicContrast: 0.7118946216069162
+purpose: []
