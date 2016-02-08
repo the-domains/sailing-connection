@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Connecting the world of sailing, fishing and boating]]></title>
         <description><![CDATA[Connecting the world of sailing, fishing and boating]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sailing-connection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 20:04:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 20:25:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sailing-connection/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CharterLink Auckland Bareboat Yachts]]></title>
+            <description><![CDATA[<article><h1>CharterLink Auckland Bareboat Yachts</h1><p>Sailing Holiday in the world's finest cruising ground! Charter a luxurious, modern yacht or sailing catamaran, and take yourself sailing to the islands, beaches and anchorages of Auckland's amazing Hauraki Gulf.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3225cfd28fc65f17ff3fc6694d1cfc9a8555c8f3.jpg"></article>]]></description>
+            <link>http://www.aucklandnz.com/things-to-do/listing/charterlink-auckland-bareboat-yachts</link>
+            <guid isPermaLink="false">007a7205-937d-41b8-80bf-50834b1bf867</guid>
+            <pubDate>Mon, 08 Feb 2016 20:23:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome - this is designed to enable a community of yachting, boating and fishing to share their assets</p>]]></description>
-            <link>undefinedf267b11a-62b7-4f45-a6be-f23fec62be93/index.html</link>
+            <link>https://thegrid.ai/sailing-connection/f267b11a-62b7-4f45-a6be-f23fec62be93/index.html</link>
             <guid isPermaLink="false">f267b11a-62b7-4f45-a6be-f23fec62be93</guid>
             <pubDate>Mon, 08 Feb 2016 20:04:27 GMT</pubDate>
         </item>
